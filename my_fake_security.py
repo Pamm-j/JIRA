@@ -1,3 +1,4 @@
+# If this code was going to be used, it would require similar, but secure methods for secret retrieval
 IS_PRODUCTION = True
 
 def get_secret(secret_reference):
